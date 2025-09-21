@@ -1,43 +1,37 @@
 🏥 Hospital Emergency Room Dashboard – Monthly Report
 📌 Project Overview
 
-This project analyzes hospital emergency room data to provide insights into patient admissions, waiting times, service efficiency, and satisfaction. The dashboard was built in Excel using Power Query and Power Pivot, with a calendar table to enable month-wise analysis.
+Built an interactive Excel dashboard to analyze hospital emergency room data
 
-The goal was to help hospital management identify service gaps and improve patient care.
+Focused on patient admissions, waiting times, service efficiency, and satisfaction
+
+Goal: Help hospital management identify service gaps and improve patient care
 
 🛠️ Tools & Skills Used
 
-Excel
+Excel: Power Query (data cleaning), Power Pivot (measures & KPIs), Calendar table (time analysis)
 
-Power Query (data cleaning & transformation)
+Interactive dashboard with charts, slicers, and KPIs
 
-Power Pivot (measures & calculations)
-
-Calendar table for time intelligence
-
-Interactive charts & slicers
-
-Data Analysis & Visualization
-
-Healthcare Analytics domain knowledge
+Skills: Data Analysis, Visualization, Storytelling, Healthcare Analytics
 
 🔎 Problem Statement
 
-How can the hospital analyze emergency room performance to identify gaps in patient service delivery and improve overall efficiency?
+How can the hospital analyze emergency room performance to identify service gaps and improve patient care?
 
 📈 Key Insights
 
 Total Patients: 9,216
 
-Admission Status: 50.04% admitted, 49.96% not admitted
+Admission Status: 50.04% admitted | 49.96% not admitted
 
 Average Wait Time: 35.26 minutes
 
-Patient Satisfaction: 4.99 (out of 5)
+Patient Satisfaction Score: 4.99 (out of 5)
 
-On-Time Treatment: 59% patients attended on time, 41% delayed
+On-Time Treatment: 59% on time | 41% delayed
 
-Gender Split: Female 51%, Male 49%
+Gender Split: Female 51% | Male 49%
 
 Top Age Groups:
 
@@ -51,15 +45,15 @@ General Practice → 1,840 patients
 
 Orthopedics → 995 patients
 
-Others in smaller numbers
+Others → smaller numbers
 
 ✅ Recommendations
 
-Reduce delayed patient handling (41%) to improve satisfaction.
+Reduce delayed patient handling (41%) to improve satisfaction
 
-Allocate more staff/resources for the 20–39 age group, the highest ER segment.
+Allocate more staff/resources for 20–39 age group (highest ER segment)
 
-Strengthen General Practice department to handle the largest share of referrals.
+Strengthen General Practice department (largest referral volume)
 
 📊 Dashboard Preview
 
@@ -67,10 +61,10 @@ Strengthen General Practice department to handle the largest share of referrals.
 
 🚀 Takeaways
 
-Practiced data cleaning and transformation with Power Query
+Learned data cleaning & transformation with Power Query
 
-Applied Power Pivot and calendar table modeling for monthly trend analysis
+Built calendar tables and Power Pivot measures for trend analysis
 
-Learned how to connect healthcare data with actionable recommendations
+Connected healthcare data with business recommendations
 
-Strengthened skills in storytelling with data for decision-making
+Improved storytelling with data skills
